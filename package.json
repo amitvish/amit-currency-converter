@@ -1,0 +1,26 @@
+{
+  "name": "amit-currency-converter",
+  "version": "1.0.0",
+  "description": "A npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitvish/amit-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Amit Vishwakarma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitvish/amit-currency-converter/issues"
+  },
+  "homepage": "https://github.com/amitvish/amit-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
